@@ -1,5 +1,5 @@
 # ⭐ Project - Color Changer⭐
-🔗 [Project Link](https://randomly-color-changer.netlify.app/ "Click me") <br>
+🔗 [Project Link](https://vishal-kumaar.github.io/Color-Changer/ "Click me") <br>
 
 This is javascript project given in the **Ineuron's Full Stack JavaScript Development Bootcamp**.
 
